@@ -1,18 +1,16 @@
-# 🌌 Houssam | Developer in Progress
+# Houssam Samir | Software Developer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=HOUSSAM&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090f,50:14213d,100:0077b6&text=HOUSSAM%20SAMIR&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;Java+%7C+React+%7C+Full-Stack+Development;Turning+Ideas+Into+Code+%E2%9A%A1;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### Building digital solutions through code, engineering and creativity.
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/hosamir?style=for-the-badge&logo=github&color=181717)](https://github.com/hosamir?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/hosamir?style=for-the-badge&logo=github&color=yellow)](https://github.com/hosamir?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=hosamir&style=for-the-badge&color=blueviolet)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hosamir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -20,87 +18,100 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I'm **Houssam Samir**, a Software Developer and fifth-year Computer Science student specializing in **Full-Stack Development**.
 
-Hey there! Welcome to my digital playground. 👋
+My academic background and practical experience have allowed me to work across different areas of software development, from designing responsive user interfaces to developing backend applications and managing databases.
 
-I'm **Houssam**, an aspiring Software Engineer passionate about building applications, solving problems, and exploring the world of technology.
+I enjoy transforming ideas into functional applications, understanding software architecture, and building solutions that address real-world needs.
 
-- ☕ Exploring Java and Object-Oriented Programming.
-- 🌐 Building my skills in React and Full-Stack Development.
-- 🗄️ Working with SQL and relational databases.
-- 🧠 Improving my algorithms and problem-solving skills.
-- 🚀 Turning what I learn into real-world projects.
-- 🎯 Working towards becoming a well-rounded Software Engineer.
-
-<br clear="right"/>
-
-> *"First, solve the problem. Then, write the code."*
+- 🎓 **Education:** Master's-level studies in Software Engineering & Full-Stack Development.
+- 💻 **Specialization:** Full-Stack Web Development.
+- ⚙️ **Development:** Frontend, Backend & Database Management.
+- 🗄️ **Databases:** Relational and NoSQL database technologies.
+- 🔧 **Interests:** Software Architecture, Clean Code, DevOps & Cloud Computing.
+- 🤖 **Exploring:** AI integration in modern software applications.
 
 ---
 
-## ⚡ My Tech Universe
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 💻 Languages
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,js,php,python,html,css" />
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql&theme=dark)](https://skillicons.dev)
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
 
-### 🎨 Frontend Development
+### Backend Development
+<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express" />
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-### ⚙️ Tools & Environment
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,mysql&theme=dark)](https://skillicons.dev)
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Selected Projects
+
+A selection of academic and personal projects demonstrating my work across software development and application engineering.
+
+### 🌐 Web & Full-Stack Development
+
+| Project | Description | Technologies |
+|---|---|---|
+| [HOSO](https://github.com/hosamir) | Interactive quiz application with a dedicated backend. | React, Laravel |
+| [People's Choice Awards](https://github.com/hosamir) | Full-stack application for managing and presenting awards. | React, Laravel 11 |
+| [ISGI E-Commerce](https://github.com/hosamir) | E-commerce application developed as an academic project. | Web Technologies |
+
+### ☕ Software Development & Databases
+
+| Project | Description | Technologies |
+|---|---|---|
+| [JavaLearning](https://github.com/hosamir/JavaLearning) | Java development exercises, OOP concepts and practical implementations. | Java |
+| SQL Practice | Database design, queries, joins, procedures and advanced SQL concepts. | MySQL |
+
+*Explore my repositories for source code and additional projects.*
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hosamir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hosamir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosamir&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosamir&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=hosamir&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=hosamir&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🎓 Professional Interests
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hosamir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub trophies" />
-
-</div>
+- Full-Stack Software Engineering
+- Backend Development & API Design
+- Software Architecture & Design Patterns
+- Database Engineering
+- Cloud Computing & DevOps
+- Artificial Intelligence Integration
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-<a href="https://github.com/hosamir/JavaLearning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hosamir&repo=JavaLearning&theme=tokyonight&hide_border=true" alt="Java Learning repository" />
-</a>
+### Let's Build Something Meaningful.
+
+**Code. Engineer. Innovate.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:14213d,100:09090f&height=110&section=footer" width="100%" />
 
 </div>
-
-### 🔭 What I'm Building
-
-| Project | Focus |
-|:--|:--|
-| ☕ Java Learning | Java fundamentals, OOP, constructors and encapsulation |
-| 🗄️ SQL Practice | Queries, joins, stored procedures and database design |
-| 🌐 Web Development | HTML, CSS, JavaScript and React |
-
-*Explore my repositories to follow my progress and
