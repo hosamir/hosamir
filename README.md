@@ -1,117 +1,137 @@
-# Houssam Samir | Software Developer
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HOUSSAM%20SAMIR&fontSize=55&fontColor=ffffff&stroke=0077ff&strokeWidth=2&animation=fadeIn&color=0:09090f,50:101b35,100:09090f" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090f,50:14213d,100:0077b6&text=HOUSSAM%20SAMIR&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
-
-### Building digital solutions through code, engineering and creativity.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Developer;Full-Stack+Development;Building+Modern+Web+Applications;Code.+Engineer.+Innovate." />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hosamir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+<a href="https://github.com/hosamir">
+<img src="https://komarev.com/ghpvc/?username=hosamir&label=PROFILE+VIEWS&color=0077ff&style=for-the-badge" />
+</a>
+<a href="https://github.com/hosamir?tab=followers">
+<img src="https://img.shields.io/github/followers/hosamir?label=FOLLOWERS&style=for-the-badge&color=6c63ff&logo=github" />
+</a>
+<a href="https://github.com/hosamir?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-Explore-111827?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — About Me
 
-I'm **Houssam Samir**, a Software Developer and fifth-year Computer Science student specializing in **Full-Stack Development**.
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-My academic background and practical experience have allowed me to work across different areas of software development, from designing responsive user interfaces to developing backend applications and managing databases.
+**Hey, I'm Houssam!** 👋
 
-I enjoy transforming ideas into functional applications, understanding software architecture, and building solutions that address real-world needs.
+Software Developer specializing in Full-Stack Development, currently in my fifth year of higher education in Computer Science.
 
-- 🎓 **Education:** Master's-level studies in Software Engineering & Full-Stack Development.
-- 💻 **Specialization:** Full-Stack Web Development.
-- ⚙️ **Development:** Frontend, Backend & Database Management.
-- 🗄️ **Databases:** Relational and NoSQL database technologies.
-- 🔧 **Interests:** Software Architecture, Clean Code, DevOps & Cloud Computing.
-- 🤖 **Exploring:** AI integration in modern software applications.
+I work on building web applications, developing backend systems, designing databases, and exploring modern software engineering practices.
+
+- 🎓 Fifth-Year Computer Science Student
+- 💻 Full-Stack Development
+- ⚙️ Frontend & Backend Engineering
+- 🗄️ SQL & NoSQL Databases
+- ☁️ Cloud Computing & DevOps
+- 🤖 AI Integration & Emerging Technologies
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+## `02` — Tech Stack
 
 <div align="center">
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,js,php,python,html,css" />
+**LANGUAGES**
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,js,php,python,html,css&theme=dark" />
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express" />
+**FRONTEND**
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,angular,html,css&theme=dark" />
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
+**BACKEND**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,laravel&theme=dark" />
+
+**DATABASES**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+**TOOLS & ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Selected Projects
-
-A selection of academic and personal projects demonstrating my work across software development and application engineering.
-
-### 🌐 Web & Full-Stack Development
-
-| Project | Description | Technologies |
-|---|---|---|
-| [HOSO](https://github.com/hosamir) | Interactive quiz application with a dedicated backend. | React, Laravel |
-| [People's Choice Awards](https://github.com/hosamir) | Full-stack application for managing and presenting awards. | React, Laravel 11 |
-| [ISGI E-Commerce](https://github.com/hosamir) | E-commerce application developed as an academic project. | Web Technologies |
-
-### ☕ Software Development & Databases
-
-| Project | Description | Technologies |
-|---|---|---|
-| [JavaLearning](https://github.com/hosamir/JavaLearning) | Java development exercises, OOP concepts and practical implementations. | Java |
-| SQL Practice | Database design, queries, joins, procedures and advanced SQL concepts. | MySQL |
-
-*Explore my repositories for source code and additional projects.*
-
----
-
-## 📊 GitHub Statistics
+## `03` — Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hosamir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/hosamir">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hosamir&repo=JavaLearning&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+| Project | Description |
+|:---|:---|
+| 🌐 HOSO | Interactive quiz application — React & Laravel |
+| 🏆 People's Choice Awards | Full-Stack awards management application |
+| 🛒 ISGI E-Commerce | Academic e-commerce project |
+| ☕ JavaLearning | Java, OOP and programming practice |
+
+---
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hosamir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosamir&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=hosamir&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=hosamir&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 ---
 
-## 🎓 Professional Interests
-
-- Full-Stack Software Engineering
-- Backend Development & API Design
-- Software Architecture & Design Patterns
-- Database Engineering
-- Cloud Computing & DevOps
-- Artificial Intelligence Integration
-
----
+## `05` — Contribution Activity
 
 <div align="center">
 
-### Let's Build Something Meaningful.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hosamir&bg_color=0d1117&color=38bdf8&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `06` — Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/hosamir">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### Building ideas into meaningful digital experiences.
 
 **Code. Engineer. Innovate.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:14213d,100:09090f&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:14213d,100:0077ff&height=110&section=footer" width="100%" />
 
 </div>
